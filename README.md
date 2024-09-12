@@ -32,7 +32,7 @@ A powerful and easy-to-use Python-based vulnerability scanner designed to detect
 To run the scanner, use the following command:
 
 ```bash
-python scanner.py --basic-crawl <URL> --plugins <xss,sqldet> --method <GET/POST> [--html-output <file.html>]
+python detector.py --basic-crawl <URL> --plugins <xss,sqldet> --method <GET/POST> [--html-output <file.html>]
 ```
 # Preview
 ![Screenshot 2024-09-12 211413](https://github.com/user-attachments/assets/c42f64a5-ad3b-4d9d-9df3-70b8bb8313a5)
